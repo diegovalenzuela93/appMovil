@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyReserveApp</string>
+    <string-array name="opciones">
+        <item>Escoga una opción</item>
+        <item>Gym 1</item>
+        <item>Gym 2</item>
+        <item>Gym 3</item>
+    </string-array>
+</resources>

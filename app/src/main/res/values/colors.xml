@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="morado">#9F4ECC</color>
+    <color name="inputs">#507E7E7E</color>
+    <color name="background">#2E2E2E</color>
+    <color name="inputs2">#7e7e7e</color>
+    <color name="fondoInputs">#20848484</color>
+    <color name="textos">#D3D3D3</color>
+</resources>

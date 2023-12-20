@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407249404774",
+    "project_id": "ap77-44ebb",
+    "storage_bucket": "ap77-44ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407249404774:android:6c376f465273f21b137ea7",
+        "android_client_info": {
+          "package_name": "cl.inacap.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFuAw5BIroS5gkOq8cJC2jLddiCyQ84FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407249404774:android:26e5f7f892c60e59137ea7",
+        "android_client_info": {
+          "package_name": "cl.inacap.myreserveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFuAw5BIroS5gkOq8cJC2jLddiCyQ84FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
